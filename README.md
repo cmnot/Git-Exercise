@@ -32,7 +32,8 @@ Email: qcuwaritsara@gmail.com
 
 
 🎞️ 3. Animation
-![gitgif](Animation/GITGIF.gif) 
+
+![gitgif](Animation/GITGIF.gif) ![gitgifa](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
