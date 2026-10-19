@@ -28,7 +28,7 @@ Name: Waritsara Jongsomboonpoka
 Email: qcuwaritsara@gmail.com
 
 🖼️ 2. Picture
-
+ ![quote](Picture/Quote.png)
 
 
 🎞️ 3. Animation
@@ -37,7 +37,7 @@ Email: qcuwaritsara@gmail.com
 
 💬 4. Quote
 
-Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
+> Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
 https://youtu.be/alfmHTYsEU4?si=mEYsIQoS9TqnwypF
