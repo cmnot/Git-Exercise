@@ -23,9 +23,12 @@ c) Update this README.md file:
      Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
 
 👤 1. Student Information
-Name: Thanyarat Roongsitmeteekul Email:6730233721@student.chula.ac.th
-Name: Wa Email:6730233721@student.chula.ac.th
-Name: Waritsara Jongsomboonpoka Email: qcuwaritsara@gmail.com
+
+Name: Thanyarat Roongsitmeteekul  Email: 6730233721@student.chula.ac.th
+
+Name: Waratchanon Jaroenwong      Email: bzbossza3987@gmail.com
+
+Name: Waritsara Jongsomboonpoka   Email: qcuwaritsara@gmail.com
 
 🖼️ 2. Picture
  ![quote](Picture/Quote.png)
