@@ -12,7 +12,7 @@ c) Update this README.md file:
 
      Section 1: Enter your name and email address.
 
-     Section 2: Embed the quote image from the Picture directory.
+     Stion 2: Embed the quote image from the Picture directory.
 
      Section 3: Embed the GIF animation from the Animation directory.
 
@@ -23,9 +23,9 @@ c) Update this README.md file:
      Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
 
 👤 1. Student Information
-
-Name: Waritsara Jongsomboonpoka
-Email: qcuwaritsara@gmail.com
+Name: Thanyarat Roongsitmeteekul Email:6730233721@student.chula.ac.th
+Name: Wa Email:6730233721@student.chula.ac.th
+Name: Waritsara Jongsomboonpoka Email: qcuwaritsara@gmail.com
 
 🖼️ 2. Picture
  ![quote](Picture/Quote.png)
